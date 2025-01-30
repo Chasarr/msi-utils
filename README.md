@@ -1,4 +1,4 @@
-# msiutils
+# msi-utils
 
 This Python package helps with investigating or analyzing MSI tools by providing information that is helpful when you need to extract info from a MSI (Windows Installer) file.
 
@@ -53,7 +53,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 * Josh Rickard - *Initial work* - [MSAdministrator](https://github.com/MSAdministrator)
 
-See also the list of [contributors](https://github.com/MSAdministrator/msiutils/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/MSAdministrator/msi-utils/contributors) who participated in this project.
 
 ## License
 
